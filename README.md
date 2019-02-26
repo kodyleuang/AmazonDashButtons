@@ -1,6 +1,7 @@
 # ChatServer
 This is the python chat server script that is run on our raspberry pi.  It allows users to send messages to all other devices
-in the chat room.  Note: My router is set up to assign the IP address of 10.0.1.10 to the raspberry pi.  The port is set up in the script (in this case, it is set to 5000).  To join the chat room from a computer, open a terminal window and do the following:
+in the chat room.  Note: My router is set up to assign the IP address of 10.0.1.10 to the raspberry pi.  The port is set up in the script (in this case, it is set to 5000).  
+To join the chat room from a computer, open a terminal window and do the following:
 
 First, start python
 
